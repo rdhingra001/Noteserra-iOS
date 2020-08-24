@@ -1,0 +1,124 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BetterCodable",
+        "repositoryURL": "https://github.com/marksands/BetterCodable.git",
+        "state": {
+          "branch": null,
+          "revision": "3b91cd0b6bab5c2716e05ca15fa64a25877175cd",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "HandySwift",
+        "repositoryURL": "https://github.com/Flinesoft/HandySwift.git",
+        "state": {
+          "branch": null,
+          "revision": "80a9697f586cba84278a48539c58b1b1afc61e13",
+          "version": "3.2.0"
+        }
+      },
+      {
+        "package": "Hero",
+        "repositoryURL": "https://github.com/HeroTransitions/Hero.git",
+        "state": {
+          "branch": null,
+          "revision": "ae951b89f23485de8a7b95aaa5cead7f78ab1df0",
+          "version": "1.5.0"
+        }
+      },
+      {
+        "package": "JGProgressHUD",
+        "repositoryURL": "https://github.com/JonasGessner/JGProgressHUD.git",
+        "state": {
+          "branch": null,
+          "revision": "08d130dd614a743f813286f096804c43a6ffa3f6",
+          "version": "2.1.0"
+        }
+      },
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "https://github.com/onevcat/Kingfisher.git",
+        "state": {
+          "branch": null,
+          "revision": "175eeb4618b0a6ef4d69a7409b6a74ddd235a093",
+          "version": "5.15.0"
+        }
+      },
+      {
+        "package": "Layoutless",
+        "repositoryURL": "https://github.com/DeclarativeHub/Layoutless.git",
+        "state": {
+          "branch": null,
+          "revision": "63ff2afcc3cbb3dd4f8aabecfc749591b8d4ef21",
+          "version": "0.4.2"
+        }
+      },
+      {
+        "package": "QuickLayout",
+        "repositoryURL": "https://github.com/huri000/QuickLayout",
+        "state": {
+          "branch": null,
+          "revision": "6be62decbe508d8fc8f9dbafc349d05bab03c38b",
+          "version": "3.0.1"
+        }
+      },
+      {
+        "package": "RSKPlaceholderTextView",
+        "repositoryURL": "https://github.com/ruslanskorb/RSKPlaceholderTextView.git",
+        "state": {
+          "branch": null,
+          "revision": "ec315b21080e47b127285413914ad0b4bdf2e36d",
+          "version": "6.0.3"
+        }
+      },
+      {
+        "package": "Signals",
+        "repositoryURL": "https://github.com/artman/Signals.git",
+        "state": {
+          "branch": null,
+          "revision": "e792eb51a64f85d043d17f09f6323b803b9f73b8",
+          "version": "6.1.0"
+        }
+      },
+      {
+        "package": "SparkUI",
+        "repositoryURL": "https://github.com/rebeloper/SparkUI.git",
+        "state": {
+          "branch": null,
+          "revision": "7f86cb830a70ec0627b781dfd892325dea6a14ef",
+          "version": "0.12.22"
+        }
+      },
+      {
+        "package": "SwiftEntryKit",
+        "repositoryURL": "https://github.com/huri000/SwiftEntryKit.git",
+        "state": {
+          "branch": null,
+          "revision": "796981500de29ee72f72ef8e9c46eaed2fe6364e",
+          "version": "1.2.3"
+        }
+      },
+      {
+        "package": "SwiftHEXColors",
+        "repositoryURL": "https://github.com/thii/SwiftHEXColors.git",
+        "state": {
+          "branch": null,
+          "revision": "bf89f80ed03a7a55edf0beb6a6bcadd41a913f9d",
+          "version": "1.4.0"
+        }
+      },
+      {
+        "package": "UIFontComplete",
+        "repositoryURL": "https://github.com/Nirma/UIFontComplete.git",
+        "state": {
+          "branch": null,
+          "revision": "28959719e8078c3a9cc359cb85589016b57f1fd4",
+          "version": "4.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

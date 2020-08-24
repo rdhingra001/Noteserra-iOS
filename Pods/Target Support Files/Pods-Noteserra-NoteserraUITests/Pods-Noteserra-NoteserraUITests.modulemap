@@ -1,0 +1,6 @@
+framework module Pods_Noteserra_NoteserraUITests {
+  umbrella header "Pods-Noteserra-NoteserraUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
